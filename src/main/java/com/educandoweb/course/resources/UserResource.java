@@ -1,4 +1,4 @@
-package com.educandoweb.course.resourses;
+package com.educandoweb.course.resources;
 
 import java.net.URI;
 import java.util.List;
